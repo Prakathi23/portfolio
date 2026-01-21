@@ -1,4 +1,4 @@
-# Prakathi Vanarasa - Software Developer    ![location](/images/image3.png)
+# ![location](/images/image3.png) Prakathi Vanarasa - Software Developer
 
 ## Contact Information:
 - **Email**: prakathiv2@gmail.com
